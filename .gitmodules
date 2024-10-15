@@ -1,3 +1,3 @@
-[submodule "Plugins/UdonSortPlugin"]
-	path = Plugins/UdonSortPlugin
-	url = https://github.com/Udon-Tobira/UdonSortPlugin.git
+[submodule "Plugins/ArrayUtilsPlugin"]
+	path = Plugins/ArrayUtilsPlugin
+	url = https://github.com/Udon-Tobira/ArrayUtilsPlugin.git
