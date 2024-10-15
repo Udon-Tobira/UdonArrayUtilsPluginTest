@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class UdonSortPluginSample : ModuleRules
+public class UdonArrayUtilsPluginTest : ModuleRules
 {
-	public UdonSortPluginSample(ReadOnlyTargetRules Target) : base(Target)
+	public UdonArrayUtilsPluginTest(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

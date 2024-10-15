@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "UdonSortPluginSample",
+			"Name": "UdonArrayUtilsPluginTest",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}

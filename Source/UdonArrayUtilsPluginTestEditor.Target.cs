@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class UdonSortPluginSampleEditorTarget : TargetRules
+public class UdonArrayUtilsPluginTestEditorTarget : TargetRules
 {
-	public UdonSortPluginSampleEditorTarget(TargetInfo Target) : base(Target)
+	public UdonArrayUtilsPluginTestEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 
-		ExtraModuleNames.AddRange( new string[] { "UdonSortPluginSample" } );
+		ExtraModuleNames.AddRange( new string[] { "UdonArrayUtilsPluginTest" } );
 	}
 }

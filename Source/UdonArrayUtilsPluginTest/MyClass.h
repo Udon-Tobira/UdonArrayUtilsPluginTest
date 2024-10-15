@@ -7,7 +7,7 @@
 /**
  * 
  */
-class UDONSORTPLUGINSAMPLE_API MyClass
+class UDONARRAYUTILSPLUGINTEST_API MyClass
 {
 public:
 	MyClass();
