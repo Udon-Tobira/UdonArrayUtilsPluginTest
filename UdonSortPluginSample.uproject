@@ -19,7 +19,7 @@
 			]
 		},
 		{
-			"Name": "ArrayUtils",
+			"Name": "UdonArrayUtils",
 			"Enabled": true
 		},
 		{
